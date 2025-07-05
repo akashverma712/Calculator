@@ -12,8 +12,7 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 - Clean and intuitive UI
 - Responsive design (mobile-friendly)
 - Handles basic operations: `+`, `-`, `×`, `÷`
-- Clear button (`C`) to reset the screen
-- Keyboard input support *(optional)*
+
 
 ## 🛠️ Technologies Used
 
